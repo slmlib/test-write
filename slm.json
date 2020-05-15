@@ -1,0 +1,11 @@
+{
+    "libs": {
+        "~": "build/*slm-test-write.*"
+    },
+    "headers": {
+        "slm/test/write.hpp": "slm-test-write.hpp"
+    },
+    "build": {
+        "builtin": "cmake"
+    }
+}
